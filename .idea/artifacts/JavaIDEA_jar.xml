@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaIDEA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaIDEA_jar</output-path>
+    <root id="archive" name="JavaIDEA_jar.jar">
+      <element id="module-output" name="JavaIDEA" />
+    </root>
+  </artifact>
+</component>
